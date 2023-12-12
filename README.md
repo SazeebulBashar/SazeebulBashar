@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Sazeebul Bashar</h1>
 <h3 align="center">Software Developer | ML Engineer | Problem Solver</h3>
-<img width="400px" href="coding.gif"/>
+<img width="400" align="right" href="coding.gif"/>
 
 - 🌱 I’m currently learning **Laravel**
 
