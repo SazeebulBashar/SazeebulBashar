@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📫 How to reach me **saz@gmail.com**
+- 📫 How to reach me **saz***@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
 
