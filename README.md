@@ -13,7 +13,7 @@
 
 <div align="center">
   
-| <b>Myself: Sazeebul Bashar</b> | <b><a target="_blank" href="#">Download CV</a></b> |
+| <b>Myself: Sazeebul Bashar </b> | <b><a target="_blank" href="#">Download CV</a></b> |
 |---|---| 
 
 </div>
@@ -40,7 +40,7 @@ I am currently working as a software engineer at XYZ. I have completed my B.Sc (
   
 <div align="center">
   
-  | <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248"><img loading="lazy" alt="Whatsapp" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_whatsapp.png" /></a> | <a target="_blank" href="mailto:abdullahmasum6035@gmail.com"><img loading="lazy" alt="Gmail" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_gmail.png" /></a> | <a target="_blank" href="https://www.facebook.com/profile.php?id=100015653296778"><img loading="lazy" alt="Facebook" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_facebook.png" /></a> | <a target="_blank" href="https://www.instagram.com/masum.035"><img loading="lazy" alt="Instagram" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_instagram.png" /></a> | <a target="_blank" href="https://t.me/MasumBhai"><img loading="lazy" alt="Telegram" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_telegram.png" /></a> | <a target="_blank" href="https://www.linkedin.com/in/masum035/"><img loading="lazy" alt="LinkedIn" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_linkedin.png" /></a> | <a target="_blank" href="https://join.skype.com/invite/uLyIWnegmHe9"><img loading="lazy" alt="Skype" width="100px" src="https://github.com/masum035/masum035/blob/main/assets/communication_skype.png" /></a> |
+  | <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248"><img loading="lazy" alt="Whatsapp" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_whatsapp.png" /></a> | <a target="_blank" href="mailto:mailtoS.bashar@gmail.com"><img loading="lazy" alt="Gmail" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_gmail.png" /></a> | <a target="_blank" href="https://www.facebook.com/profile.php?id=100015653296778"><img loading="lazy" alt="Facebook" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_facebook.png" /></a> | <a target="_blank" href="https://www.instagram.com/masum.035"><img loading="lazy" alt="Instagram" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_instagram.png" /></a> | <a target="_blank" href="https://t.me/MasumBhai"><img loading="lazy" alt="Telegram" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_telegram.png" /></a> | <a target="_blank" href="https://www.linkedin.com/in/SazeebulBashar/"><img loading="lazy" alt="LinkedIn" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_linkedin.png" /></a> | <a target="_blank" href="https://join.skype.com/invite/uLyIWnegmHe9"><img loading="lazy" alt="Skype" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_skype.png" /></a> |
   | --- | --- | --- | --- | --- | --- | --- |
   
 </div>
@@ -70,7 +70,7 @@ I am currently working as a software engineer at XYZ. I have completed my B.Sc (
 
 <div align="center">
   
-| <a target="_blank" href="https://github.com/masum035"><img src="https://komarev.com/ghpvc/?username=masum035&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Masum" style="float:left" /></a> | <a target="_blank" href="https://github.com/masum035?tab=followers"><img src="https://img.shields.io/github/followers/masum035?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" style="float:right" /></a>  |
+| <a target="_blank" href="https://github.com/SazeebulBashar"><img src="https://komarev.com/ghpvc/?username=SazeebulBashar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Masum" style="float:left" /></a> | <a target="_blank" href="https://github.com/SazeebulBashar?tab=followers"><img src="https://img.shields.io/github/followers/SazeebulBashar?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" style="float:right" /></a>  |
 |:---:| :---: | 
 
 </div>
