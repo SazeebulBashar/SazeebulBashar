@@ -40,7 +40,7 @@ I am a fresh Graduate looking for opportunities to start my career as a Software
   
 <div align="center">
   
-  | <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248"><img loading="lazy" alt="Whatsapp" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_whatsapp.png" /></a> | <a target="_blank" href="mailto:mailtoS.bashar@gmail.com"><img loading="lazy" alt="Gmail" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_gmail.png" /></a> | <a target="_blank" href="https://www.facebook.com/profile.php?id=100015653296778"><img loading="lazy" alt="Facebook" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_facebook.png" /></a> | <a target="_blank" href="https://www.instagram.com/masum.035"><img loading="lazy" alt="Instagram" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_instagram.png" /></a> | <a target="_blank" href="https://t.me/MasumBhai"><img loading="lazy" alt="Telegram" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_telegram.png" /></a> | <a target="_blank" href="https://www.linkedin.com/in/SazeebulBashar/"><img loading="lazy" alt="LinkedIn" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_linkedin.png" /></a> | <a target="_blank" href="https://join.skype.com/invite/uLyIWnegmHe9"><img loading="lazy" alt="Skype" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_skype.png" /></a> |
+  | <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248"><img loading="lazy" alt="Whatsapp" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_whatsapp.png" /></a> | <a target="_blank" href="mailto:mailtoS.bashar@gmail.com"><img loading="lazy" alt="Gmail" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_gmail.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Facebook" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_facebook.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Instagram" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_instagram.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Telegram" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_telegram.png" /></a> | <a target="_blank" href="https://www.linkedin.com/in/SazeebulBashar/"><img loading="lazy" alt="LinkedIn" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_linkedin.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Skype" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_skype.png" /></a> |
   | --- | --- | --- | --- | --- | --- | --- |
   
 </div>
@@ -87,7 +87,7 @@ I am a fresh Graduate looking for opportunities to start my career as a Software
   
 Here are a few of my notable achievements :
 - Placed 1st roll number when I was in class Two (Cause I was the only student in my class in that school for the whole one year!!!) <br> It was a sweet experience. No Competitors. All the Beautiful Teachers Adored me... Oh! Good old days... 
-- Jokes aside, see <a target="_blank" href="https://slides.com/MasumBhai/certificates/fullscreen">my few certification collection here</a>
+- Jokes aside, see <a target="_blank" href="#">my few certification collection here</a>
   
 <!-- </details> -->
 <!-- <hr> -->
@@ -136,7 +136,7 @@ Here are a few of my notable achievements :
   
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SazeebulBashar&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="SazeebulBashar" /> | <img src="https://api.githubtrends.io/user/svg/SazeebulBashar/langs?time_range=one_year&loc_metric=changed&theme=synthwaves" width="500" alt="abdullah al masum" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SazeebulBashar&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="SazeebulBashar" /> | <img src="https://api.githubtrends.io/user/svg/SazeebulBashar/langs?time_range=one_year&theme=classic" width="500" alt="abdullah al masum" />
 
 </div>
 
