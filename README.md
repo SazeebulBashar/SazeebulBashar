@@ -111,13 +111,13 @@ Here are a few of my notable achievements :
     
   <!-- </summary> -->
 
-<b>Languages :</b> <a target="_blank" href="https://github.com/masum035/Java-Basics.git">Java</a> • <a target="_blank" href="https://github.com/masum035/Slice-of-life-with-Python.git">Python</a> • <a target="_blank" href="https://github.com/masum035/Anime-Streaming.git">PHP</a> • <a target="_blank" href="https://github.com/masum035/personal_portfolio.git">JS</a> • <a target="_blank" href="https://github.com/masum035/need-Help-.git">HTML</a> • <a target="_blank" href="https://github.com/masum035/need-Help-.git">CSS</a> • <a target="_blank" href="https://github.com/masum035/sql-injected-knight.git">SQL</a> • <a target="_blank" href="https://github.com/masum035/Treasure-Hunting-game.git">C</a> • <a target="_blank" href="https://github.com/masum035/Data-Structure.git">C++</a>  • <a target="_blank" href="https://github.com/masum035/50-Day-challenge-with-Assembly-Language.git">Assembly</a> • <a target="_blank" href="https://github.com/masum035/Matlab-Salvage.git">Matlab</a>
+<b>Languages :</b> Python • Java • PHP • Javascript • C • C++ • HTML • CSS 
 
 <b>Databases :</b> Oracle • MySQL • PostgreSQL • Firebase • MongoDB
 
-<b>Frameworks :</b> <a target="_blank" href="https://github.com/Brainy-Fools/Railway-Database-Management-Project.git">Django</a> • <a target="_blank" href="https://github.com/masum035/Python-Cluster-Project.git">Selenium</a> • <a target="_blank" href="https://github.com/masum035/personal_portfolio.git">jQuery</a> • <a target="_blank" href="https://github.com/masum035/Training_Python_Flask.git">Flask</a> • <a target="_blank" href="https://github.com/masum035/Learning-Angular.git">Angular</a> • <a target="_blank" href="https://github.com/masum035/Dockerized-asp.Net-6-REST-API-with-mongoDB.git">dotNet</a>
+<b>Frameworks :</b> Django • Django Rest Framework • Laravel • React • Bootstrap
 
-<b>Tools :</b> PostMan • Android Studio • IntelliJ Idea • Visual Studio • Pycharm • Unreal Engine4 • PhpStorm • Rider • WebStorm • DataSpell
+<b>Tools :</b> PostMan • Android Studio •  Visual Studio • Pycharm • Xampp • Jupyter Notebook
 
 </details>
 
