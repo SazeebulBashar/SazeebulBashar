@@ -136,7 +136,7 @@ Here are a few of my notable achievements :
   
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=masum035&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="masum035" /> | <img src="https://api.githubtrends.io/user/svg/masum035/langs?time_range=one_year&loc_metric=changed&theme=synthwaves" width="500" alt="abdullah al masum" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SazeebulBashar&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="SazeebulBashar" /> | <img src="https://api.githubtrends.io/user/svg/SazeebulBashar/langs?time_range=one_year&loc_metric=changed&theme=synthwaves" width="500" alt="abdullah al masum" />
 
 </div>
 
@@ -144,7 +144,7 @@ Profile stats              |  Language Contribution
 <!-- </details> -->
   
 <div align="center">
-<h3>Here's my <a href="http://masum035.github.io">incomplete and old portfolio</a>. Still, I suggest you to visit.</h3> 
+<h3>Here's my <a href="http://SazeebulBashar.github.io">incomplete and old portfolio</a>. Still, I suggest you to visit.</h3> 
 </div>
 
 
