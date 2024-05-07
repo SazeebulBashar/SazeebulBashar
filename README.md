@@ -13,7 +13,7 @@
 
 <div align="center">
   
-| <b>Myself: Sazeebul Bashar </b> | <b><a target="_blank" href="#">Download CV</a></b> |
+| <b>I'm Sazeebul Bashar </b> | <b><a target="_blank" href="#">Download CV</a></b> |
 |---|---| 
 
 </div>
@@ -25,7 +25,7 @@
     
   <!-- </summary> -->
   
-I am currently working as a software engineer at XYZ. I have completed my B.Sc (140 credits) in CSE from East West University,<b>(EWU)</b> Bangladesh. I am an open-source enthusiast \& always hungry for project-related work. However, I don't think an intro like this is okay to fully say who am I in real, also I keenly wish to learn more \& become as skillful as possible within my limits.
+I am a fresh Graduate looking for opportunities to start my career as a Software Engineer. I have completed my B.Sc (140 credits) in CSE from East West University,<b>(EWU)</b> in Bangladesh. I am an open-source enthusiast \& always hungry for project-related work. However, I don't think an intro like this is okay to fully say who am I in real, also I keenly wish to learn more \& become as skillful as possible within my limits.
 
 
 <!-- </details> -->
