@@ -136,7 +136,7 @@ Here are a few of my notable achievements :
   
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SazeebulBashar&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="SazeebulBashar" /> | <img src="https://api.githubtrends.io/user/svg/SazeebulBashar/langs?time_range=one_year&theme=classic" width="500" alt="abdullah al masum" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SazeebulBashar&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="SazeebulBashar" /> | <img src="https://api.githubtrends.io/user/svg/SazeebulBashar/langs?time_range=one_year&theme=synthwaves" width="500" alt="abdullah al masum" />
 
 </div>
 
