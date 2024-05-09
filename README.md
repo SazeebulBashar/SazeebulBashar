@@ -84,11 +84,7 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
     
 ### Achievements: ###
     
-  <!-- </summary> -->
-  
-Here are a few of my notable achievements :
-- Placed 1st roll number when I was in class Two (Cause I was the only student in my class in that school for the whole one year!!!) <br> It was a sweet experience. No Competitors. All the Beautiful Teachers Adored me... Oh! Good old days... 
-- Jokes aside, see <a target="_blank" href="#">my few certification collection here</a>
+- 1st Runnerup in a debating Competition Organized by Brac
   
 
 <!-- <hr> -->
