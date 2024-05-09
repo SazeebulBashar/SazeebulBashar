@@ -13,7 +13,7 @@
 
 <div align="center">
   
-| <b><a target="_blank" href="#">Download CV</a></b> |
+| <b><a target="_blank" style="font-size:1.5em; text-decoration:none;" href="#"> Download CV</a></b> |
 |---| 
 
 </div>
@@ -21,7 +21,7 @@
 <!-- <details> -->
   <!-- <summary> -->
     
-### Little Bit of Myself: ###     
+## About Me:   
     
   <!-- </summary> -->
   
@@ -35,7 +35,7 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
   
 <!--   <summary> -->
     
-### Ways to Communicate Me: ###     
+## Contact Me:    
     
 <!--   </summary> -->
   
@@ -48,10 +48,10 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
 
 <!-- </details> -->
 
-### Currently Engaged in: ###  
+## Currently Learning:  
 
-- Building assistive technologies for visually impaired people with C#
-- Trying to solve problems consistently in the <a target="_blank" href="https://leetcode.com/masum035/">LeetCode platform</a>
+- Beautiful visual design with React
+- Solving problems on <a target="_blank" href="https://leetcode.com/sazeebul/">LeetCode</a>
   
 <!--
 ### Currently Engaged in: ###     
@@ -71,7 +71,7 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
 
 <div align="center">
   
-| <a target="_blank" href="https://github.com/SazeebulBashar"><img src="https://komarev.com/ghpvc/?username=SazeebulBashar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Masum" style="float:left" /></a> | <a target="_blank" href="https://github.com/SazeebulBashar?tab=followers"><img src="https://img.shields.io/github/followers/SazeebulBashar?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" style="float:right" /></a>  |
+| <a target="_blank" href="https://github.com/SazeebulBashar"><img src="https://komarev.com/ghpvc/?username=SazeebulBashar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Bashar" style="float:left" /></a> | <a target="_blank" href="https://github.com/SazeebulBashar?tab=followers"><img src="https://img.shields.io/github/followers/SazeebulBashar?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" style="float:right" /></a>  |
 |:---:| :---: | 
 
 </div>
@@ -90,17 +90,6 @@ Here are a few of my notable achievements :
 - Placed 1st roll number when I was in class Two (Cause I was the only student in my class in that school for the whole one year!!!) <br> It was a sweet experience. No Competitors. All the Beautiful Teachers Adored me... Oh! Good old days... 
 - Jokes aside, see <a target="_blank" href="#">my few certification collection here</a>
   
-<!-- </details> -->
-<!-- <hr> -->
-
-<!--
-### Volunteering: ###
-  
-- Pi Day Celebration (2017) in NDC organized by Notre Dame Math Club
-- Inter-University Programming Contest (2019) in MIST organized by MIST Computer Club
-- National Collegiate Programming Contest (2020) in MIST organized by Dept of CSE, MIST
--->
-
 
 <!-- <hr> -->
 <img width="100%" loading="lazy" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/rainbow.webp" />
@@ -137,7 +126,7 @@ Here are a few of my notable achievements :
   
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SazeebulBashar&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="SazeebulBashar" /> | <img src="https://api.githubtrends.io/user/svg/SazeebulBashar/langs?time_range=one_year&theme=synthwaves" width="500" alt="abdullah al masum" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SazeebulBashar&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width="700" alt="SazeebulBashar" /> | <img src="https://api.githubtrends.io/user/svg/SazeebulBashar/langs?time_range=one_year&theme=synthwaves" width="500" alt="Sazeebul Bashar" />
 
 </div>
 
