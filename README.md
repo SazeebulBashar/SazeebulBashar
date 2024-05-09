@@ -14,7 +14,7 @@
 <div align="center">
   
 | <b><a target="_blank" href="#">Download CV</a></b> |
-|---|---| 
+|---| 
 
 </div>
 
