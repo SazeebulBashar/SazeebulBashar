@@ -13,7 +13,7 @@
 
 <div align="center">
   
-| <b><a target="_blank" style="font-size:1.5em; text-decoration:none;" href="#"> Download CV</a></b> |
+| <b><a target="_blank" style="font-size:1.5em; text-decoration:none;" href="https://drive.usercontent.google.com/download?id=1vP3y3LyrqtHIfFQSZs5XzrtvLGCCusNN&export=download&authuser=1&confirm=t&uuid=db63acfb-f7e7-4f78-a882-d52155869415&at=APZUnTUt-EhwSSILMlhOxhfnqObY:1715438283315"> Download CV</a></b> |
 |---| 
 
 </div>
@@ -41,7 +41,7 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
   
 <div align="center">
   
-  | <a target="_blank" href="https://api.whatsapp.com/send?phone=8801551805248"><img loading="lazy" alt="Whatsapp" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_whatsapp.png" /></a> | <a target="_blank" href="mailto:mailtoS.bashar@gmail.com"><img loading="lazy" alt="Gmail" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_gmail.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Facebook" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_facebook.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Instagram" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_instagram.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Telegram" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_telegram.png" /></a> | <a target="_blank" href="https://www.linkedin.com/in/SazeebulBashar/"><img loading="lazy" alt="LinkedIn" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_linkedin.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Skype" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_skype.png" /></a> |
+  | <a target="_blank" href="https://api.whatsapp.com/send?phone=8801743249231"><img loading="lazy" alt="Whatsapp" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_whatsapp.png" /></a> | <a target="_blank" href="mailto:mailtoS.bashar@gmail.com"><img loading="lazy" alt="Gmail" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_gmail.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Facebook" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_facebook.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Instagram" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_instagram.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Telegram" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_telegram.png" /></a> | <a target="_blank" href="https://www.linkedin.com/in/SazeebulBashar/"><img loading="lazy" alt="LinkedIn" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_linkedin.png" /></a> | <a target="_blank" href="#"><img loading="lazy" alt="Skype" width="100px" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/communication_skype.png" /></a> |
   | --- | --- | --- | --- | --- | --- | --- |
   
 </div>
