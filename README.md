@@ -97,13 +97,17 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
     
   <!-- </summary> -->
 
-<b>Languages :</b> Python • Java • PHP • Javascript • C • C++ • HTML • CSS 
+<b>Languages :</b> Python • Java • PHP • Javascript • C++
 
-<b>Databases :</b> Oracle • MySQL • PostgreSQL • Firebase • MongoDB
+<b>Databases :</b> Oracle • MySQL • PostgreSQL • MongoDB
 
-<b>Frameworks :</b> Django • Django Rest Framework • Laravel • React • Bootstrap
+<b>Frontend :</b> React • Bootstrap • HTML • CSS 
 
-<b>Tools :</b> PostMan • Android Studio •  Visual Studio • Pycharm • Xampp • Jupyter Notebook
+<b>Backend :</b> Django • Django Rest Framework 
+
+<b>Machine Learning :</b> Pandas • Numpy • Scikit-Learn • Matplotlib
+
+<b>Tools :</b> PostMan • Android Studio •  Visual Studio • Xampp • pgAdmin • Jupyter Notebook
 
 </details>
 
@@ -130,7 +134,7 @@ Profile stats              |  Language Contribution
 <!-- </details> -->
   
 <div align="center">
-<h3>Here's my <a href="http://SazeebulBashar.pythonanywhere.com">running portfolio site</a>.I suggest you to have a look.</h3> 
+<h3>Here's my <a href="http://SazeebulBashar.pythonanywhere.com">Running Portfolio Site</a>. I suggest you to have a look.</h3> 
 </div>
 
 
