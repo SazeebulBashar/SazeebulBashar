@@ -51,6 +51,7 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
 ## Currently Learning:  
 
 - Beautiful visual design with React
+- Tailwind CSS
 - Solving problems on <a target="_blank" href="https://leetcode.com/sazeebul/">LeetCode</a>
   
 <!--
@@ -101,7 +102,7 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
 
 <b>Databases :</b> Oracle • MySQL • PostgreSQL • MongoDB
 
-<b>Frontend :</b> React • Bootstrap • HTML • CSS 
+<b>Frontend :</b> React • Tailwind CSS • Bootstrap • HTML • CSS  
 
 <b>Backend :</b> Django • Django Rest Framework 
 
