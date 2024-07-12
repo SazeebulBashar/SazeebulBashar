@@ -86,6 +86,7 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
 ### Achievements: ###
     
 - 1st Runnerup in a debating Competition Organized by Brac
+- Leetcode 50 Days Badge.
   
 
 <!-- <hr> -->
