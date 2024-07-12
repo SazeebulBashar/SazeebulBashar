@@ -68,7 +68,7 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
 - <s>Foreign PhD Assignment on xv6 Operating System</s> (Finished)
 -->
 <!-- <hr> -->
-<img width="100%" loading="lazy" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/rainbow.webp" />
+<img width="100%" loading="lazy" src="https://github.com/SazeebulBashar/SazeebulBashar/blob/main/assets/divider_1.gif" />
 
 <div align="center">
   
