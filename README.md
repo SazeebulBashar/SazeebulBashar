@@ -105,7 +105,7 @@ I find immense joy in transforming a great idea into a reality that leaves a mea
 
 <b>Frontend :</b> React • Tailwind CSS • Bootstrap • HTML • CSS  
 
-<b>Backend :</b> Django • Django Rest Framework 
+<b>Backend :</b> Django • Django Rest Framework • FastAPI
 
 <b>Machine Learning :</b> Pandas • Numpy • Scikit-Learn • Matplotlib
 
